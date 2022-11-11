@@ -1,1 +1,1 @@
-# ImagesCropper
+# Images Cropper
